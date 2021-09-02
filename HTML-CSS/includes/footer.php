@@ -1,3 +1,4 @@
+<?php
 <footer>
  <div class="container">
   <center>
@@ -5,3 +6,4 @@
   </center>
  </div> 
 </footer>
+  ?>
