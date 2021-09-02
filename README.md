@@ -1,4 +1,5 @@
 # Online-shopping-website
 
 Internshala project.
-Create an online shopping website consisting of operations such as displaying the objects, adding objects to cart ,purchasing and displaying a success page.
+Lifestyle Store - an online shopping website .
+Operations from displaying products, adding them into cart, sign up/login of user, completing the purchase and displaying the success page are included.
